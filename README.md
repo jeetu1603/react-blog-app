@@ -1,14 +1,14 @@
-###### Home
+## Home
 ![home](sample/home.png)
 
-###### Blogs
+## Blogs
 ![blogs](sample/blogs.png)
 
-###### Blog
+## Blog
 ![blog](sample/blog.png)
 
-###### Register
+## Register
 ![register](sample/register.png)
 
-###### Login
+## Login
 ![login](sample/login.png)
